@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
 
+// デコレータでクラスにAngularコンポーネントとしての特性を与える。
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
